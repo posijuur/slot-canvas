@@ -1,0 +1,21 @@
+body {
+  background: #000;
+  color: #fff;
+  font-family: 'Press Start 2P', Arial, sans-serif;
+  text-transform: uppercase;
+}
+
+#header {
+  width: 800px;
+  margin: auto;
+}
+
+canvas {
+	margin: auto;
+	display: block;
+}
+
+#stage {
+	width: 800px;
+	margin: auto;
+}
